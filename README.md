@@ -15,7 +15,7 @@ In this project, I classify the analysis into 3 major categories that include `P
   - Summary statistics metrics (mean, median, variance, etc.)
 ### How to see my project
 - Download or clone this repo
-- Open Supply Chain EDA.ipynb to see my project
+- Open `Supply Chain EDA.ipynb` to see my project
 ## What Questions I'm Asking
 ### Product & Sales
 - What are the best-selling product types?
