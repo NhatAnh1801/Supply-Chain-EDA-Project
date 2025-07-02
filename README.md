@@ -12,10 +12,9 @@ In this project, I classify the analysis into 3 major categories that include `P
   - seaborn - for better visualizations
 - Techniques:
   - Min-max feature scaling for data normalization
-  - Summary statistics metrics (mean, median, variance,..)
-### How to Run This
+  - Summary statistics metrics (mean, median, variance, etc.)
+### How to see my project
 - Download or clone this repo
-- Make sure you have the libraries above installed
 - Open Supply Chain EDA.ipynb to see my project
 ## What Questions I'm Asking
 ### Product & Sales
@@ -33,5 +32,5 @@ In this project, I classify the analysis into 3 major categories that include `P
 ## What I've Learned
 - **Question framing:** Translating business goals into clear EDA questions ensures every analysis drives actionable insights.  
 - **Data preparation:** Creating derived features (e.g., forecast vs. stock difference) and normalizing metrics makes comparisons meaningful.  
-- **Effective visualization:** Choosing the right chart—bar, box, scatter, heatmap, pie—helps reveal patterns quickly.  
+- **Effective visualization:** Choosing the right chart-bar, box, scatter, heatmap, pie-helps reveal patterns quickly.  
 - **Insight to action:** Pairing each finding with concrete recommendations (e.g., adjust safety stock, review suppliers) turns exploration into impact. 
